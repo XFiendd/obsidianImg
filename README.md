@@ -1,0 +1,3 @@
+# obsidianImg
+
+图片
